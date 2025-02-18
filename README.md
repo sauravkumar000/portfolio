@@ -14,10 +14,9 @@ This is my personal portfolio website, designed to showcase my skills, projects,
 - 📌 About Me Section  
 - 📌 Skills & Tech Stack  
 - 📌 Projects Showcase  
-- 📌 Contact Form  
-- 📌 Blog  
+- 📌 Contact Form   
   
 ## 📬 Connect with Me  
-- 📧 Email: your-email@example.com  
+- 📧 gmail: thesauravkumar10@gmail.com  
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/saurav-kumar-174268298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🐦 Twitter: [Your Twitter Handle](Take a look at Saurav Kumar (@Sauravraj2004): https://x.com/Sauravraj2004?t=Z7L8EBR9x4biJY2Pt8JCIw&s=35)
